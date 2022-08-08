@@ -1,4 +1,4 @@
-#10958854  Nelson Victoria Esinam
+#10981607  Lattakorah Amaniampong
 #sum of prime numbers less than a given number
 
 
